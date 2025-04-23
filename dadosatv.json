@@ -1,0 +1,119 @@
+{
+    "aluno": {
+        "id1": {
+            "nome": "Vinicius",
+            "idade":17 ,
+            "email": "viniciustiboff@gmail.com" ,
+            "numero": 1234567890
+        },
+        "id2": {
+            "nome": "Ricardo",
+            "idade":16 ,
+            "numero": 1234567890
+        },
+        "id3": {
+            "nome": "Mateus",
+            "email": "matheus123@gmail.com" ,
+            "numero": 1234567890
+        },
+        "id4": {
+            "nome": "Giovana",
+            "idade":17 ,
+            "email": "giovanaoliva@gmail.com"
+        }
+    },
+
+    "professor": {
+        "id1": {
+            "nome": "Marcio",
+            "materia":"PW",
+            "email": "marciopw@gmail.com" 
+       },
+        "id2": {
+            "nome": "Lourdes",
+            "materia":"Artes",
+            "numero": 1234567890
+        },
+        "id3": {
+            "nome": "Giovanna",
+            "materia":"APS"
+        },
+        "id4": {
+            "nome": "Gerson",
+            "email": "gerson545243@gmail.com" ,
+            "numero": 1234567890
+        }
+    },
+    
+    "curso": {
+        "id1": {
+            "curso": "Desenvolvimento de Sistemas",
+            "coordenador": "Ricardo Guzzon",
+            "duracao": 270
+
+        },
+        "id2": {
+            "curso": "Administração",
+            "coordenador": "Silvana"
+
+        },
+        "id3": {
+            "curso": "Secretariado",
+            "coordenador": "Rebeca",
+            "duracao": 265
+
+        },
+        "id4": {
+            "curso": "Artes",
+            "coordenador": "Lourdes"
+
+        }
+    },
+
+    "etec": {
+       "id1": {
+    "etec": "ETEC Professor Camargo Aranha",
+    "diretor": "Carlos Henrique Silva",
+    "localizacao": "São Paulo SP",
+    "cursos": {
+        "curso1": "Informática",
+        "curso2": "Desenvolvimento de Sistemas",
+        "curso3": "Administração"
+    }
+
+        },
+        "id2": {
+        "etec": "ETEC Professor Camargo Aranha",
+        "diretor": "Carlos Henrique Silva",
+        "localizacao": "São Paulo SP",
+        "cursos": {
+        "curso1": "Informática",
+        "curso2": "Desenvolvimento de Sistemas",
+        "curso3": "Administração"
+    }
+            }
+
+        },
+        "id3": {
+        "etec": "ETEC de Sorocaba",
+        "diretor": "Mariana Costa",
+        "localizacao": "Sorocaba SP",
+        "cursos": {
+        "curso1": "Mecatrônica",
+        "curso2": "Eletrônica",
+        "curso3": "Logística"
+    }
+
+        },
+        "id4": {
+        "etec": "ETEC Rubens de Faria",
+        "diretor": "Felipe Moura",
+        "localizacao": "Jundiaí SP",
+        "cursos": {
+        "curso1": "Automação Industrial",
+        "curso2": "Eletrotécnica",
+        "curso3": "Desenvolvimento de Sistemas"
+    }
+
+        }
+    }
